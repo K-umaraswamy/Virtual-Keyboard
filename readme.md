@@ -20,7 +20,7 @@
 - Download or clone the repository
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+git clone https://github.com/K-umaraswamy/Virtual-Keyboard.git
 ```
 
 - Go to the directory
